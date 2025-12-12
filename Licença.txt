@@ -1,0 +1,33 @@
+CONTRATO DE LICENÇA DE USUÁRIO FINAL
+
+IMPORTANTE - LEIA COM ATENÇÃO: Este Contrato de Licença de Usuário Final FDK ("EULA") é um acordo legal entre V.Sa. (pessoa física ou jurídica) e a FDK, para o software FDK indicado acima, que inclui o programa de computador e poderá incluir meios físicos, materiais impressos e documentação "on-line" ou eletrônica ("PRODUTO" ou "SOFTWARE"). Ao instalar, copiar ou de qualquer outra forma usar o SOFTWARE, V.Sa. está concordando em vincular-se aos termos deste EULA. Caso V. Sa. não esteja de acordo com os termos deste EULA, não instale ou use o SOFTWARE. 
+
+LICENÇA DO Software
+
+Este SOFTWARE é protegido pelas leis de direitos autorais, bem como por outras leis e tratados de propriedade intelectual. O SOFTWARE é licenciado e não vendido.
+CONCESSÃO DE LICENÇA. Este EULA concede à V. Sa. os seguintes direitos:
+
+·	Softwares Aplicativos. V. Sa. poderá instalar e usar uma cópia do SOFTWARE, ou de qualquer versão anterior do SOFTWARE para o mesmo sistema operacional, em um diversos computadores. O principal usuário do computador no qual o SOFTWARE está instalado poderá fazer cópias secundárias do SOFTWARE.
+·	Armazenamento/Utilização em Rede. V.Sa. também poderá armazenar ou instalar uma cópia do SOFTWARE em um dispositivo para armazenamento, tal como um servidor de rede, utilizado somente para instalar ou executar o SOFTWARE nos  outros computadores de V.Sa. em uma rede interna.
+
+
+DESCRIÇÃO DE OUTROS DIREITOS E LIMITAÇÕES.
+
+·	Software Não Comercializável ("Not for Sale"). Este SOFTWARE é identificado como "Não Comercializável" ou "NFS", desde então, não poderá ser revendedido ou de qualquer outra forma transferir o SOFTWARE por qualquer valor .
+·	Engenharia reversa, descompilação e decomposição. É vedada a engenharia reversa, descompilação ou decomposição do SOFTWARE, exceto e somente na medida em que esta atividade seja expressamente permitida pela legislação aplicável, inobstante tal limitação.
+
+·	Separação de Componentes. O SOFTWARE é licenciado como um produto único. Seus componentes não poderão ser separados para utilização em mais de um computador.
+·	Aluguel. É vedado o aluguel ou arrendamento do SOFTWARE.
+·	Serviços de Suporte. A FDK poderá fornecer a V.Sa. serviços de suporte relacionados ao SOFTWARE ("Serviços de Suporte"). O uso dos Serviços de Suporte ou qualquer código complementar para programa de computador fornecido à V. Sa. como parte dos Serviços de Suporte deverá ser considerado parte do SOFTWARE e estará sujeito aos termos e condições deste EULA. Com respeito às informações técnicas fornecidas por V.Sa. à FDK como parte dos Serviços de Suporte, a FDK poderá usar tais informações para fins comerciais, incluindo o desenvolvimento e suporte ao produto.
+
+·	Rescisão. Sem prejuízo de quaisquer outros direitos, a FDK poderá rescindir este EULA caso V.Sa. não cumpra com seus termos e condições. Neste caso, V.Sa. deverá destruir todas as cópias do SOFTWARE e de todos os seus componentes.
+
+ATUALIZAÇÕES ("UPGRADES"). Caso o SOFTWARE esteja identificado como uma atualização substitui e/ou complementa o produto que serviu de base para a atualização. V. Sa. poderá usar o produto atualizado apenas de acordo com os termos deste EULA.
+
+DIREITOS AUTORAIS. Todos os títulos e direitos autorais relativos ao SOFTWARE (incluindo, mas não se limitando a, quaisquer imagens, fotografias, animações, vídeos, áudios, músicas, textos e "applets" incorporados ao SOFTWARE), os materiais impressos que o acompanham e quaisquer cópias do SOFTWARE são de propriedade da FDK. O SOFTWARE é protegido pelas leis de direitos autorais. Assim, V.Sa. deverá tratar o SOFTWARE como qualquer outro material protegido por direito autoral. Não é vedada a reprodução dos materiais impressos que acompanham o SOFTWARE.
+
+SUPORTE DUAL. V.Sa. poderá receber o SOFTWARE em mais de um meio físico. Independentemente do tipo ou tamanho dos meios físicos que V.Sa. receba, somente poderá utilizar o meio físico adequado para o seu computador individual. V.Sa. poderá utilizar ou instalar o outro meio físico em outro computador, bem como emprestar, de qualquer outra forma, transferir o outro meio físico para outro usuário.
+
+GARANTIA LIMITADA
+
+GARANTIA LIMITADA. NO TOCANTE ÀS GARANTIAS LIMITADAS A FDK NÃO SE RESPONSABILIZA POR EVENTUAIS DANOS CAUSADOS APOS A INSTALACAO DO SOFTWARE, TAIS COMO, PERDA DE DADOS, MAL FUNCIONAMENTO DO SISTEMA OU EQUIPAMENTO.
