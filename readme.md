@@ -48,3 +48,8 @@ O MAP representa um importante marco no desenvolvimento de aplicações desktop 
 ---
 
 *Projeto descontinuado em 2001. Mantido para fins históricos e educacionais.*
+
+
+** Autor **
+
+Francisco David Kuka <francisco@fdk.com.br>
